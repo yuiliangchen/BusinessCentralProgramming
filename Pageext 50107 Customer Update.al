@@ -26,18 +26,15 @@ pageextension 50107 "Customer Update" extends "Customer Card"
     }
 
     var
-        Text90001: Text[100];
-        Text90002: Text[100];
-        Text90003: Text[100];
+        Text90001: TextConst ENU = 'Are you sure that you want to set the %1 to %2';
+        Text90002: TextConst ENU = 'The credit limit was rounded to %1 to comply with company policies.';
+        Text90003: TextConst ENU = 'The credit limit is up to date.';
 
     procedure CallUpdateCreditLimit();
     var
         CreditLimitCalculated: Decimal;
         CreditLimitActual: Decimal;
     begin
-        Text90001 := 'Are you sure that you want to set the %1 to %2';
-        Text90002 := 'The credit limit was rounded to %1 to comply with company policies.';
-        Text90003 := 'The credit limit is up to date.';
         CreditLimitCalculated := Rec.CalculateCreditLimit;
         IF CreditLimitCalculated = Rec."Credit Limit (LCY)" THEN BEGIN
             MESSAGE(Text90003);
