@@ -1,10 +1,9 @@
-tableextension 50106 "Customer Update" extends Customer
+tableextension 50107 "Customer Extend" extends Customer
 {
     fields
     {
         // Add changes to table fields here
     }
-
     procedure UpdateCreditLimit(NewCreditLimit: Decimal);
     begin
         NewCreditLimit := ROUND(NewCreditLimit, 10000);

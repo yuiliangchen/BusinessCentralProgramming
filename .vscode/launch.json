@@ -7,9 +7,9 @@
             "request": "launch",
             "name": "Your own server",
             "server": "http://localhost",
-            "serverInstance": "BC130",
+            "serverInstance": "BC140",
             "authentication": "Windows",
-            "startupObjectId": 21,
+            "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true
         }

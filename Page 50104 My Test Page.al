@@ -53,6 +53,15 @@ page 50104 "My Test Page"
                     test_codeunit()
                 end;
             }
+            action("Simple Codunit Test")
+            {
+                ApplicationArea = All;
+
+                trigger OnAction()
+                begin
+                    Codeunit.Run(50107)
+                end;
+            }
         }
     }
 

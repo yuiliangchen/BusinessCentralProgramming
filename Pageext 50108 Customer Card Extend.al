@@ -1,4 +1,4 @@
-pageextension 50107 "Customer Update" extends "Customer Card"
+pageextension 50108 "CustomerCardExtend" extends "Customer Card"
 {
     layout
     {
@@ -15,6 +15,7 @@ pageextension 50107 "Customer Update" extends "Customer Card"
                 Promoted = true;
                 PromotedCategory = Process;
                 PromotedIsBig = true;
+                Image = CalculateCost;
                 ApplicationArea = All;
                 Caption = 'Update Credit Limit';
                 trigger OnAction();
@@ -26,11 +27,12 @@ pageextension 50107 "Customer Update" extends "Customer Card"
     }
 
     var
+        myInt: Integer;
         Text90001: TextConst ENU = 'Are you sure that you want to set the %1 to %2';
         Text90002: TextConst ENU = 'The credit limit was rounded to %1 to comply with company policies.';
         Text90003: TextConst ENU = 'The credit limit is up to date.';
 
-    procedure CallUpdateCreditLimit();
+    local procedure CallUpdateCreditLimit();
     var
         CreditLimitCalculated: Decimal;
         CreditLimitActual: Decimal;
