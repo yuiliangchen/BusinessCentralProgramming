@@ -45,11 +45,6 @@ report 50109 "Course Report"
             {
                 group(GroupName)
                 {
-                    field(Name; SourceExpression)
-                    {
-                        ApplicationArea = All;
-
-                    }
                 }
             }
         }

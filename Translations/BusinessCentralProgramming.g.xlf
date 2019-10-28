@@ -78,6 +78,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Course List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1050106769 - Action 1897398853 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show the Course Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course List - Action Course Report - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2215178738 - Action 360998715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Update Credit Limit</source>
           <note from="Developer" annotates="general" priority="2"></note>
