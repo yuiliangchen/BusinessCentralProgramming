@@ -28,9 +28,12 @@ pageextension 50108 "CustomerCardExtend" extends "Customer Card"
 
     var
         myInt: Integer;
-        Text90001: TextConst ENU = 'Are you sure that you want to set the %1 to %2';
-        Text90002: TextConst ENU = 'The credit limit was rounded to %1 to comply with company policies.';
-        Text90003: TextConst ENU = 'The credit limit is up to date.';
+        Text90001: Label 'Are you sure that you want to set the %1 to %2', Comment = 'Foo', MaxLength = 999, Locked = true;
+        Text90002: Label 'The credit limit was rounded to %1 to comply with company policies.', Comment = 'Foo', MaxLength = 999, Locked = true;
+        Text90003: Label 'The credit limit is up to date.', Comment = 'Foo', MaxLength = 999, Locked = true;
+    //        Text90001: TextConst ENU = 'Are you sure that you want to set the %1 to %2';
+    //        Text90002: TextConst ENU = 'The credit limit was rounded to %1 to comply with company policies.';
+    //        Text90003: TextConst ENU = 'The credit limit is up to date.';
 
     local procedure CallUpdateCreditLimit();
     var
