@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BusinessCentralProgramming">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3534050887 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 3138923317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PassingRate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field PassingRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3168444338 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address - Property caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3168444338 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3168444338 - Field 2725415723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locality</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address - Field Locality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3168444338 - Field 2742548598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Town/City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address - Field Town/City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3168444338 - Field 499448942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address - Field County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050106769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050106769 - Action 3647010011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course List - Action Insert Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2215178738 - Action 360998715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExtend - Action UpdateCreditLimit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2215178738 - NamedType 522343111" maxwidth="999" size-unit="char" translate="no" xml:space="preserve">
+          <source>Are you sure that you want to set the %1 to %2</source>
+          <note from="Developer" annotates="general" priority="2">Foo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExtend - NamedType Text90001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2215178738 - NamedType 2435432962" maxwidth="999" size-unit="char" translate="no" xml:space="preserve">
+          <source>The credit limit was rounded to %1 to comply with company policies.</source>
+          <note from="Developer" annotates="general" priority="2">Foo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExtend - NamedType Text90002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2215178738 - NamedType 1797736345" maxwidth="999" size-unit="char" translate="no" xml:space="preserve">
+          <source>The credit limit is up to date.</source>
+          <note from="Developer" annotates="general" priority="2">Foo</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardExtend - NamedType Text90003</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

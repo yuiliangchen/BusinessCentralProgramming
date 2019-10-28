@@ -6,6 +6,7 @@
   "description": "",
   "version": "1.0.0.0",
   "privacyStatement": "",
+  "features": ["TranslationFile"],
   "EULA": "",
   "help": "",
   "url": "",
