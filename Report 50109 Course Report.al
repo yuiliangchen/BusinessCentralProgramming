@@ -1,5 +1,8 @@
 report 50109 "Course Report"
 {
+    // DefaultLayout = Word;
+    // WordLayout = 'Course Report.docx';
+    RDLCLayout = 'Course Report.rdl';
     UsageCategory = Administration;
     ApplicationArea = All;
 
