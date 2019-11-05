@@ -73,6 +73,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Address - Field County - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2289433709 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to reset %1 to %2 for these customers?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reset Top 10 Cust. Cred. Limit - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289433709 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action completed successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Reset Top 10 Cust. Cred. Limit - NamedType Text002</note>
+        </trans-unit>
         <trans-unit id="Page 1050106769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Course List</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -82,6 +92,11 @@
           <source>Show the Course Report</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Course List - Action Course Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1255613137 - Action 3489913570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reset Top 10 Cust. Cred. Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerListExt - Action ResetTop10Cust - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2215178738 - Action 360998715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Update Credit Limit</source>
